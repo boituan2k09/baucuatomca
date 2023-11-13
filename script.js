@@ -11,5 +11,6 @@ spinButton.addEventListener('click', () => {
 
     setTimeout(() => {
         board.classList.remove('spinning');
-    }, 3000);
+    }, 4000);   
 });
+    
